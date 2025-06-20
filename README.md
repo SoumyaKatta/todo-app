@@ -1,24 +1,5 @@
-# Title
+# Title : Todo_application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* building a todo_app using ruby on rails, where users can able to add their items to todo list.
+* User has to be authenticated before creating todos.
+* And users can able to see their completed tasks, pending takss.
